@@ -1,0 +1,26 @@
+Necessary Definitions:
+
+Webpage
+Website
+Browser
+Server
+Links/HyperLinks/URL
+Search Engine Optimization
+
+HTML Related Definitions:
+
+Markup Language
+Emmet Abbreviation
+View Page Source
+Inspect Element
+
+Extra But Important Definitions:
+
+www.
+https/http
+Internet
+Types of websites
+Search bar/address bar
+Search Engine
+
+
