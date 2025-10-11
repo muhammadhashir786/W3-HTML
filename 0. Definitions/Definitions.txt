@@ -5,10 +5,16 @@ A browser does not display the HTML tags, but uses them to determine how to disp
 
 View HTML Source Code:
 
+View Page Source:
+
 press ctrl + u in an HTML page, or right-click on the page and select "View Page Source".
 This will open a new tab containing the HTML source code of the page.
 This is the frontend source code of a website.
 
-We can also change or edit this page source temporarily only in our browser, but when we refresh this page all the changes will have gone and website is in your original state.
+We can also change or edit this page source temporarily only in our browser, but when we refresh this page all the changes will have gone and
+website is in your original state.
 
-Right-click on an element (or a blank area), and choose "Inspect" to see what elements are made up of (you will see both the HTML and the CSS). You can also edit the HTML or CSS on-the-fly in the Elements or Styles panel that opens.
+Inspect Element:
+
+Right-click on an element (or a blank area), and choose "Inspect" to see what elements are made up of (you will see both the HTML and the CSS).
+You can also edit the HTML or CSS on-the-fly in the Elements or Styles panel that opens.
